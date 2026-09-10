@@ -1,0 +1,2566 @@
+--------------------------------------------------
+---- Marvellous Platform Survillence System ----
+Log file gets created at : 2026-09-10_11-46-43
+--------------------------------------------------
+
+---------------- System Report -----------------
+Number of active CPU cores : 16
+CPU Usage : 5.9 %
+--------------------------------------------------
+RAM Usage : 71.6 %
+Total RAM available : 25439227904
+--------------------------------------------------
+Network Usage Report
+Sent : 75.04 MB
+Receive : 249.68 MB
+PID : 0
+Name : System Idle Process
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 236
+Name : 
+User Name : None
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.39
+--------------------------------------------------
+PID : 280
+Name : Registry
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 912
+Name : AWCC.Background.Server.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.34
+--------------------------------------------------
+PID : 924
+Name : smss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 948
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 960
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 1376
+Name : csrss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 1488
+Name : wininit.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 1564
+Name : services.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 1584
+Name : LsaIso.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 1592
+Name : lsass.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 1680
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 1788
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 1808
+Name : ShellHost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 1836
+Name : fontdrvhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 1872
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 1956
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2020
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 2060
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2180
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 2196
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2204
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2212
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2264
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2288
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2296
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2336
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 2360
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 2424
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2432
+Name : IntelCpHDCPSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2440
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 2508
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2576
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2632
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 2644
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2700
+Name : NVDisplay.Container.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 2756
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2772
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2792
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2916
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2924
+Name : GitHubDesktop.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.40
+--------------------------------------------------
+PID : 2940
+Name : Dell.CoreServices.Client.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.58
+--------------------------------------------------
+PID : 3044
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 3108
+Name : NVDisplay.Container.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 3116
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 3180
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 3200
+Name : mc-extn-browserhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 3244
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 3252
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 3260
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 3268
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 3400
+Name : MemCompression
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 6.15
+--------------------------------------------------
+PID : 3424
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 3492
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 3520
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 3564
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 3596
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 3612
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 3756
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 3768
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 3796
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 3880
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 3896
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 3928
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 3944
+Name : python.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 4040
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 4100
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 4132
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4216
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4240
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 4316
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 4340
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 4544
+Name : spoolsv.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 4616
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4684
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4816
+Name : armsvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4836
+Name : AnyDesk.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 4844
+Name : Dell.TechHub.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 4856
+Name : DAX3API.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 4864
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 4880
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 4888
+Name : ipfsvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4900
+Name : escsvc64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4920
+Name : EpSecuritySupport.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4928
+Name : GameInputRedistService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 4940
+Name : OfficeClickToRun.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 4952
+Name : ipf_uf.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4960
+Name : IgoAudioService_x64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 4976
+Name : jhi_service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4992
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 5020
+Name : MobiGameUpdater.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 5028
+Name : mepService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 5036
+Name : IntelAudioService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 5052
+Name : RstMwService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 5060
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 5068
+Name : MpDefenderCoreService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 5084
+Name : DAX3API.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 5096
+Name : mc-fw-host.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.71
+--------------------------------------------------
+PID : 5172
+Name : WMIRegistrationService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 5192
+Name : MsMpEng.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 1.84
+--------------------------------------------------
+PID : 5252
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 5264
+Name : RtkAudUService64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 5288
+Name : SDXHelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 5300
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 5832
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 5908
+Name : NVIDIA Overlay.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 6004
+Name : WmiPrvSE.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 6056
+Name : IntelGraphicsSoftware.Service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 6088
+Name : SystemSettings.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 6100
+Name : gamingservices.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 6104
+Name : SearchHost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.51
+--------------------------------------------------
+PID : 6264
+Name : SecurityHealthSystray.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 6308
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 6512
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 6824
+Name : AggregatorHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 7456
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 7700
+Name : CrossDeviceResume.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 7816
+Name : ms-teams.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 7820
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.88
+--------------------------------------------------
+PID : 7896
+Name : WmiPrvSE.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 8016
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 8020
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.42
+--------------------------------------------------
+PID : 8144
+Name : powershell.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.40
+--------------------------------------------------
+PID : 8244
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 8260
+Name : AWCC.Service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 8732
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 8836
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 8860
+Name : gamingservicesnet.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 8984
+Name : iGoSwServer.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 9080
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 9196
+Name : wlanext.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 9200
+Name : LinkedIn.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.64
+--------------------------------------------------
+PID : 9316
+Name : WhatsApp.Root.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.05
+--------------------------------------------------
+PID : 9396
+Name : Intel_PIE_Service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 9636
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 9652
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 9688
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 9828
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 9892
+Name : dwm.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.59
+--------------------------------------------------
+PID : 10108
+Name : winlogon.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 10136
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 10236
+Name : PresentMonService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 10288
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 10464
+Name : EPSDNMON.EXE
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 10520
+Name : conhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 10548
+Name : nvcontainer.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 10552
+Name : msedge.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 10792
+Name : NisSrv.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 10892
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 10908
+Name : audiodg.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 11016
+Name : GameInputSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 11076
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 11180
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 11252
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 11260
+Name : ctfmon.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 11300
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 11308
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 11476
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 11612
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 11620
+Name : ChatGPT Classic.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.52
+--------------------------------------------------
+PID : 11660
+Name : steamservice.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 11704
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 11712
+Name : GitHubDesktop.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 11788
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 11820
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 11920
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 12056
+Name : taskhostw.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 12124
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 12148
+Name : OneDrive.Sync.Service.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.51
+--------------------------------------------------
+PID : 12208
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 12316
+Name : LocalServiceControl.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 12320
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 12364
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.54
+--------------------------------------------------
+PID : 12368
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 12420
+Name : Dell.Connected.Service.Delivery.SubAgent.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.34
+--------------------------------------------------
+PID : 12476
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 12936
+Name : msedge.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 13172
+Name : SearchIndexer.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 13224
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 13244
+Name : conhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 13276
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 13292
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 13296
+Name : msedge.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 13320
+Name : Dell.TechHub.DataManager.SubAgent.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.52
+--------------------------------------------------
+PID : 13392
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 13476
+Name : Dell.TechHub.Analytics.SubAgent.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.59
+--------------------------------------------------
+PID : 13748
+Name : nvsphelper64.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 14020
+Name : mep.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 14224
+Name : wps.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 14416
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.93
+--------------------------------------------------
+PID : 14568
+Name : FileSyncHelper.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 14580
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 14596
+Name : NVIDIA Overlay.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 15096
+Name : fontdrvhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 15100
+Name : steamwebhelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 15248
+Name : mc-neo-host.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 15288
+Name : XtuService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 15332
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 15644
+Name : OneDrive.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.97
+--------------------------------------------------
+PID : 15768
+Name : msedge.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 16524
+Name : AWCC.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 16548
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 16680
+Name : Dell.D3.WinSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 16752
+Name : ms-teams.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 16756
+Name : nvcontainer.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 16764
+Name : sihost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 16788
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 16948
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 17000
+Name : steamwebhelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 17248
+Name : EPPCCMON.EXE
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 17304
+Name : SecurityHealthService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 17312
+Name : ONENOTEM.EXE
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 17324
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 17404
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.36
+--------------------------------------------------
+PID : 17492
+Name : promecefpluginhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 17856
+Name : ChatGPT Classic.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 17916
+Name : steamwebhelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 18064
+Name : NVIDIA Overlay.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 18076
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 18096
+Name : DellSupportAssistRemedationService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.45
+--------------------------------------------------
+PID : 18164
+Name : TextInputHost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 18204
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 18208
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 18320
+Name : WmiPrvSE.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 18344
+Name : dllhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 18460
+Name : uihost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 18512
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 18660
+Name : PhoneExperienceHost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.71
+--------------------------------------------------
+PID : 18772
+Name : StartMenuExperienceHost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.71
+--------------------------------------------------
+PID : 18784
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 18840
+Name : iGoSwServer.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 19032
+Name : mc-fw-host.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 19088
+Name : Photos.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.63
+--------------------------------------------------
+PID : 19104
+Name : explorer.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.78
+--------------------------------------------------
+PID : 19140
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 19316
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 19480
+Name : Dell.TechHub.Instrumentation.SubAgent.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 1.48
+--------------------------------------------------
+PID : 19496
+Name : Dell.TechHub.Diagnostics.SubAgent.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.55
+--------------------------------------------------
+PID : 19588
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 19624
+Name : Dell.Update.SubAgent.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 19732
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.45
+--------------------------------------------------
+PID : 19808
+Name : conhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 19884
+Name : Dell.UCA.Manager.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 19940
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 20088
+Name : conhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 20432
+Name : GitHubDesktop.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 20440
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 20816
+Name : GitHubDesktop.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.41
+--------------------------------------------------
+PID : 21024
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 21260
+Name : steamwebhelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 21360
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 21364
+Name : browserhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 21436
+Name : LockApp.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.34
+--------------------------------------------------
+PID : 21484
+Name : identity_helper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 21616
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 21784
+Name : nvcontainer.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 21816
+Name : wps.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 21908
+Name : ServiceShell.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 21920
+Name : ChatGPT Classic.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 22092
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.05
+--------------------------------------------------
+PID : 22312
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 22372
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.48
+--------------------------------------------------
+PID : 22376
+Name : SupportAssistAgent.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 1.92
+--------------------------------------------------
+PID : 22536
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 22540
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 22584
+Name : GameLibraryAppService.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 22768
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 22804
+Name : AppActions.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 22816
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 22960
+Name : csrss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 23340
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 23400
+Name : SnippingTool.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.73
+--------------------------------------------------
+PID : 23488
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 23624
+Name : ChatGPT Classic.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.49
+--------------------------------------------------
+PID : 23652
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.30
+--------------------------------------------------
+PID : 23660
+Name : ChatGPT Classic.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 23952
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 24384
+Name : GameInputSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 24412
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 2.02
+--------------------------------------------------
+PID : 24668
+Name : Boom3D.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.63
+--------------------------------------------------
+PID : 24968
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.29
+--------------------------------------------------
+PID : 25020
+Name : WindowsTerminal.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.49
+--------------------------------------------------
+PID : 25088
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 25120
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 25224
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 25248
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 25272
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 25392
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 25568
+Name : Photos.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.38
+--------------------------------------------------
+PID : 25572
+Name : steamwebhelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.39
+--------------------------------------------------
+PID : 25732
+Name : Dell.Connected.Service.Delivery.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 26072
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 26148
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.65
+--------------------------------------------------
+PID : 26228
+Name : nvcontainer.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 26420
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.45
+--------------------------------------------------
+PID : 26476
+Name : AnyDesk.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 26660
+Name : FusionService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 26852
+Name : cmd.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 27144
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 27296
+Name : servicehost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 27780
+Name : NVIDIA Overlay.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.57
+--------------------------------------------------
+PID : 27980
+Name : wps.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 27992
+Name : msedge.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.63
+--------------------------------------------------
+PID : 28128
+Name : wpscloudsvr.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 28136
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 28196
+Name : RtkAudUService64.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 28244
+Name : GameInputRedistService.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 28280
+Name : PushNotificationsLongRunningTask.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 28612
+Name : ApplicationFrameHost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 28668
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.31
+--------------------------------------------------
+PID : 28756
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 28824
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 29164
+Name : promecefpluginhost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 29296
+Name : WidgetService.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 29448
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 29460
+Name : FileCoAuth.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 29556
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 29808
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 29824
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.65
+--------------------------------------------------
+PID : 29860
+Name : OCControl.Service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.30
+--------------------------------------------------
+PID : 29984
+Name : ipf_helper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 30000
+Name : steamwebhelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.63
+--------------------------------------------------
+PID : 30112
+Name : steamwebhelper.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.12
+--------------------------------------------------
+PID : 30116
+Name : RtkAudUService64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 30528
+Name : NVIDIA Overlay.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 30540
+Name : Dell.TechHub.Instrumentation.UserProcess.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.58
+--------------------------------------------------
+PID : 30552
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.52
+--------------------------------------------------
+PID : 30688
+Name : ShellExperienceHost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.41
+--------------------------------------------------
+PID : 30712
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.58
+--------------------------------------------------
+PID : 30948
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 31008
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 31256
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 31656
+Name : EEventManager.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 31956
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 31996
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 32176
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.82
+--------------------------------------------------
+PID : 32252
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.57
+--------------------------------------------------
+PID : 32516
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 32528
+Name : RuntimeBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 33052
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 33092
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 33188
+Name : steam.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.38
+--------------------------------------------------
+PID : 33512
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 33672
+Name : Widgets.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.30
+--------------------------------------------------
+PID : 33840
+Name : CrossDeviceService.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.48
+--------------------------------------------------
+PID : 34104
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.40
+--------------------------------------------------
+PID : 34204
+Name : UserOOBEBroker.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 34372
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 34464
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 34772
+Name : msedgewebview2.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 34788
+Name : svchost.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 35080
+Name : cmd.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 35756
+Name : powershell.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 35912
+Name : dllhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 35940
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.46
+--------------------------------------------------
+PID : 36184
+Name : msdtc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 36256
+Name : chrome.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.16
+--------------------------------------------------
+PID : 36472
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 1.20
+--------------------------------------------------
+PID : 36624
+Name : Code.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 36956
+Name : pet.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 37016
+Name : OpenConsole.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 37768
+Name : OpenConsole.exe
+User Name : DESKTOP-2J2O095\ADMIN
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+--------------------------------------------------
+--------------- End of Log File ----------------
+--------------------------------------------------
